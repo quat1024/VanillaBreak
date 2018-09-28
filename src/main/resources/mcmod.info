@@ -1,0 +1,16 @@
+[
+{
+  "modid": "vanillabreak",
+  "name": "VanillaBreak",
+  "description": "Configurable Forge \"unfixer\", to reintroduce a number of vanilla bugs.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["quaternary"],
+  "credits": "Forge, for way overstepping its bounds as a Gash Dang MOD LOADER",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
